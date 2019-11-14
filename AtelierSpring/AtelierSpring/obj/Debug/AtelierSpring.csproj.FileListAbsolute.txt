@@ -1,0 +1,7 @@
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\bin\Debug\AtelierSpring.exe.config
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\bin\Debug\AtelierSpring.exe
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\bin\Debug\AtelierSpring.pdb
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\obj\Debug\AtelierSpring.csprojAssemblyReference.cache
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\obj\Debug\AtelierSpring.csproj.CoreCompileInputs.cache
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\obj\Debug\AtelierSpring.exe
+M:\visual studio 2017\Projects\AtelierSpring\AtelierSpring\obj\Debug\AtelierSpring.pdb
